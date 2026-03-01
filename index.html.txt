@@ -7,3 +7,4 @@
   <h1>Hello Git!</h1>
 </body>
 </html>
+<h2>Learning Git branches!</h2>
